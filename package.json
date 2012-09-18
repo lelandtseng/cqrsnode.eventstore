@@ -1,0 +1,23 @@
+{
+  "name": "eventstore",
+  "version": "0.1.0",
+  "description": "event store for cqrsnode project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brighthas/eventstore.git"
+  },
+  "dependencies": {
+    "tiny": ">= 0.0.7"
+  },
+  "keywords": [
+    "eventstore",
+    "node.js",
+    "cqrs"
+  ],
+  "author": "brighthas <brighthas@gmail.com>",
+  "license": "MIT"
+}
