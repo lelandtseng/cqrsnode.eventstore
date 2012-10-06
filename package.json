@@ -1,5 +1,5 @@
 {
-  "name": "eventstore",
+  "name": "cqrsnode.eventstore",
   "version": "0.1.0",
   "description": "event store for cqrsnode project.",
   "main": "index.js",
